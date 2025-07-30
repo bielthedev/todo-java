@@ -23,3 +23,7 @@ java -cp src TodoApp
 ```
 
 O arquivo `tarefas.txt` será criado automaticamente com os dados da lista.
+## Exemplo de execução
+
+![Execução no terminal](exemplo_terminal.png)
+
